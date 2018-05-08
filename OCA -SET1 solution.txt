@@ -1,0 +1,21 @@
+1 b
+2 e 
+3 a b c d
+4 c
+5 e
+6 c
+7 a b e
+8 d 
+9 b d 
+10 e
+11 b
+12 d
+13 e
+14 a c d
+15 e 
+16 d
+17 a c d
+18 b
+19 a c e
+20 a c g
+21 a b c 
